@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "miniacoal:miniature_blaze_clay_block"
+    }
+  ],
+  "result": {
+    "item": "miniacoal:miniature_blaze_clay_ball",
+    "count": 4
+  }
+}
