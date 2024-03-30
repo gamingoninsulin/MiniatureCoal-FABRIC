@@ -20,9 +20,11 @@ public class MiniatureCoal implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 
+		// 1 smelting
 		FuelRegistry.INSTANCE.add(ModItems.MINIATURE_COAL, 200);
 		FuelRegistry.INSTANCE.add(ModItems.MINIATURE_CHARCOAL, 200);
-		FuelRegistry.INSTANCE.add(ModItems.MINIATURE_BLAZE_BRICK, 3000);
+		// 30 smelting
+		FuelRegistry.INSTANCE.add(ModItems.MINIATURE_BLAZE_BRICK, 6000);
 
 		LOGGER.info("Miniature Coal is DONE loading!");
 	}

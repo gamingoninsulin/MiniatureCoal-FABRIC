@@ -16,9 +16,7 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.miniature"))
                     .icon(() -> new ItemStack(ModItems.MINIATURE_COAL)).entries((displayContext, entries) -> {
                         entries.add(ModItems.MINIATURE_COAL);
-                        entries.add(ModItems.MINIATURE_CRUSHED_COAL);
                         entries.add(ModItems.MINIATURE_CHARCOAL);
-                        entries.add(ModItems.MINIATURE_CRUSHED_CHARCOAL);
                         entries.add(ModItems.MINIATURE_BLAZE_CLAY_BALL);
                         entries.add(ModBlocks.MINIATURE_BLAZE_CLAY_BLOCK);
                     }).build());

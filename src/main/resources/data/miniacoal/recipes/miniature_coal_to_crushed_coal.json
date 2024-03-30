@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:coal"
-  },
-  "result": "minacoal:crushed_coal",
-  "count": 8
-}

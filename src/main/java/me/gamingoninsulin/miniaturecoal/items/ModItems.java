@@ -17,11 +17,6 @@ public class ModItems {
     public static final Item MINIATURE_CHARCOAL = registerItem("miniature_charcoal",
             new Item(new FabricItemSettings()));
 
-    public static final Item MINIATURE_CRUSHED_CHARCOAL = registerItem("miniature_crushed_charcoal",
-            new Item(new FabricItemSettings()));
-
-    public static final Item MINIATURE_CRUSHED_COAL = registerItem("miniature_crushed_coal",
-            new Item(new FabricItemSettings()));
 
     public static final Item MINIATURE_BLAZE_CLAY_BALL = registerItem("miniature_blaze_clay_ball",
             new Item(new FabricItemSettings()));
