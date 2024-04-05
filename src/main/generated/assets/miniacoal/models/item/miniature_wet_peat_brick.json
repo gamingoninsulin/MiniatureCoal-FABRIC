@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "miniacoal:item/miniature_wet_peat_brick"
+  }
+}

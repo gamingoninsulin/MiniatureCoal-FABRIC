@@ -16,6 +16,12 @@ public class ModBlocks {
     public static final Block MINIATURE_BLAZE_CLAY_BLOCK = registerBlock("miniature_blaze_clay_block",
             new Block(FabricBlockSettings.copyOf(Blocks.CLAY).sounds(BlockSoundGroup.ROOTED_DIRT)));
 
+    public static final Block MINIATURE_WET_PEAT_BLOCK = registerBlock("miniature_wet_peat_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.CLAY).sounds(BlockSoundGroup.ROOTED_DIRT)));
+
+    public static final Block MINIATURE_DRIED_PEAT_BLOCK = registerBlock("miniature_dried_peat_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.CLAY).sounds(BlockSoundGroup.ROOTED_DIRT)));
+
     /*
     ####################################################################################################################
                                                     DON'T TOUCH!

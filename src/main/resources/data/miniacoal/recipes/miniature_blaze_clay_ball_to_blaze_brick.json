@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "miniacoal:miniature_blaze_clay_ball"
-  },
-  "result": "miniacoal:miniature_blaze_brick",
-  "cookingtime": 400
-}

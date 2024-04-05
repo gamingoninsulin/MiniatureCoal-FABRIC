@@ -17,8 +17,15 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.MINIATURE_COAL)).entries((displayContext, entries) -> {
                         entries.add(ModItems.MINIATURE_COAL);
                         entries.add(ModItems.MINIATURE_CHARCOAL);
+
                         entries.add(ModItems.MINIATURE_BLAZE_CLAY_BALL);
                         entries.add(ModBlocks.MINIATURE_BLAZE_CLAY_BLOCK);
+
+                        entries.add(ModItems.MINIATURE_WET_PEAT_BRICK);
+                        entries.add(ModBlocks.MINIATURE_WET_PEAT_BLOCK);
+
+                        entries.add(ModItems.MINIATURE_DRIED_PEAT_BRICK);
+                        entries.add(ModBlocks.MINIATURE_DRIED_PEAT_BLOCK);
                     }).build());
 
 

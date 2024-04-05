@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "miniacoal:item/miniature_blaze_clay_ball"
-  }
-}

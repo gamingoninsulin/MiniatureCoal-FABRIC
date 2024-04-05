@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "miniacoal:block/miniature_dried_peat_block"
+  }
+}

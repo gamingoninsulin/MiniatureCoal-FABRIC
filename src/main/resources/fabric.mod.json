@@ -3,13 +3,13 @@
 	"id": "miniacoal",
 	"version": "${version}",
 	"name": "Miniature Coal",
-	"description": "This is a simple mod that adds Mini variants for coal and charcoal",
+	"description": "This is a simple mod that adds Mini variants for coal and charcoal and other fuel related stuff",
 	"authors": [
 		"Gamingoninsulin"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://github.com/gamingoninsulin",
+		"sources": "https://github.com/gamingoninsulin/MiniatureCoal-FABRIC"
 	},
 	"license": "MIT",
 	"icon": "assets/miniacoal/icon.png",

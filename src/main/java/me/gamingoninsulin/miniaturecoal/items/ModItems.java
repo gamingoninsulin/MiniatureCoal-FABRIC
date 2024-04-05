@@ -17,6 +17,12 @@ public class ModItems {
     public static final Item MINIATURE_CHARCOAL = registerItem("miniature_charcoal",
             new Item(new FabricItemSettings()));
 
+    public static final Item MINIATURE_WET_PEAT_BRICK = registerItem("miniature_wet_peat_brick",
+            new Item(new FabricItemSettings()));
+
+    public static final Item MINIATURE_DRIED_PEAT_BRICK = registerItem("miniature_dried_peat_brick",
+            new Item(new FabricItemSettings()));
+
 
     public static final Item MINIATURE_BLAZE_CLAY_BALL = registerItem("miniature_blaze_clay_ball",
             new Item(new FabricItemSettings()));

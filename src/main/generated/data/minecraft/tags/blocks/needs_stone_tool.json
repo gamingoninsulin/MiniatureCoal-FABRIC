@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "miniacoal:miniature_wet_peat_block",
+    "miniacoal:miniature_dried_peat_block",
+    "miniacoal:miniature_blaze_clay_block"
+  ]
+}

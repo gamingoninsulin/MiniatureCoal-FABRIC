@@ -5,6 +5,10 @@
   "item.miniacoal.miniature_charcoal": "Miniature Charcoal",
   "item.miniacoal.miniature_blaze_clay_ball": "Blaze Clay Ball",
   "item.miniacoal.miniature_blaze_brick": "Blaze Brick",
+  "item.miniacoal.miniature_wet_peat_brick": "Wet Peat Brick",
+  "item.miniacoal.miniature_dried_peat_brick": "Dried Peat Brick",
 
-  "block.miniacoal.miniature_blaze_clay_block": "Blaze Clay Block"
+  "block.miniacoal.miniature_blaze_clay_block": "Blaze Clay Block",
+  "block.miniacoal.miniature_wet_peat_block": "Wet Peat Block",
+  "block.miniacoal.miniature_dried_peat_block": "Dried Peat Block"
 }

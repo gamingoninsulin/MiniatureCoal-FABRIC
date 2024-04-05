@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "fuel",
+  "ingredient": {
+    "item": "miniacoal:miniature_wet_peat_brick"
+  },
+  "result": "miniacoal:miniature_dried_peat_brick"
+}
